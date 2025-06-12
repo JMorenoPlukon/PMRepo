@@ -201,3 +201,5 @@ Where 1=1
       ) 
 
 Order By 1, rel_maintype_bploc, rel_type_bploc
+
+juanjo edited
